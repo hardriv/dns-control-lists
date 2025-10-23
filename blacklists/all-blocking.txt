@@ -1,0 +1,8 @@
+##########################################
+#           Parental-control             #
+#        Liste de blocage total          #
+# Dans le but d'interdire l'accès au web #
+##########################################
+
+
+0.0.0.0 .*
