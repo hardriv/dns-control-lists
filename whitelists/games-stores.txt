@@ -1,0 +1,16 @@
+#############################
+# Liste des domains utilisé #
+#  par les stores de jeux   #
+#############################
+
+0.0.0.0 *.epicgames.com
+0.0.0.0 *.unrealengine.com
+0.0.0.0 download?.epicgames.com
+0.0.0.0 *.steampowered.com
+0.0.0.0 *.steamcommunity.com
+0.0.0.0 *.steamgames.com
+0.0.0.0 *.steamusercontent.com
+0.0.0.0 *.steamcontent.com
+0.0.0.0 *.steamstatic.com
+0.0.0.0 akamaihd.net
+
