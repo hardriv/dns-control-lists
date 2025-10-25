@@ -1,16 +1,54 @@
-#############################
-# Liste des domains utilisé #
-#  par les stores de jeux   #
-#############################
+# ====================================================
+# Gaming Whitelist - Steam / Epic / Xbox (compatible WindowsSpyBlocker)
+# Auteur : Fabrice 
+# Date : 2025-10-24
+# Objectif : Préserver la confidentialité (SpyBlocker)
+#             tout en garantissant la connectivité des plateformes de jeu
+# ====================================================
 
-0.0.0.0 *.epicgames.com
-0.0.0.0 *.unrealengine.com
-0.0.0.0 download?.epicgames.com
-0.0.0.0 *.steampowered.com
-0.0.0.0 *.steamcommunity.com
-0.0.0.0 *.steamgames.com
-0.0.0.0 *.steamusercontent.com
-0.0.0.0 *.steamcontent.com
-0.0.0.0 *.steamstatic.com
-0.0.0.0 akamaihd.net
+# --- [STEAM - Valve Corporation] ---
+steampowered.com
+store.steampowered.com
+api.steampowered.com
+steamcommunity.com
+steamgames.com
+steamusercontent.com
+steamcontent.com
+steamstatic.com
+cdn.akamai.steamstatic.com
+akamaihd.net
+edgecastcdn.net
 
+# --- [EPIC GAMES - Epic / Unreal Engine] ---
+epicgames.com
+store.epicgames.com
+launcher.store.epicgames.com
+download.epicgames.com
+download2.epicgames.com
+download3.epicgames.com
+download4.epicgames.com
+static-assets-prod.epicgames.com
+unrealengine.com
+cdn1.unrealengine.com
+cdn2.unrealengine.com
+cdn.unrealengine.com
+
+# --- [XBOX / MICROSOFT GAMING - Safe exceptions] ---
+# NB: Cette section est "télémetrie-safe"
+# Les domaines ci-dessous sont strictement nécessaires
+# pour authentifier, synchroniser et lancer les jeux Xbox/Game Pass.
+xsts.auth.xboxlive.com
+device.auth.xboxlive.com
+user.auth.xboxlive.com
+title.mgt.xboxlive.com
+eds.xboxlive.com
+compass.xboxlive.com
+settings.xboxlive.com
+assets.xboxlive.com
+enforcement.xbox.com
+www.xbox.com
+xnotify.xboxlive.com
+
+# ====================================================
+# Fin du fichier
+# ====================================================

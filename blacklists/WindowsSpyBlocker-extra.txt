@@ -188,7 +188,7 @@
 0.0.0.0 msgapi.teams.live.com
 0.0.0.0 mscrl.microsoft.com
 0.0.0.0 msedge.api.cdp.microsoft.com
-0.0.0.0 msftncsi.com
+#0.0.0.0 msftncsi.com
 0.0.0.0 msportal.blob.core.windows.net
 0.0.0.0 mucp.api.account.microsoft.com
 0.0.0.0 nav.smartscreen.microsoft.com
