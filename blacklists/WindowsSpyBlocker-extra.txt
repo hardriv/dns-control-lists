@@ -128,7 +128,7 @@
 0.0.0.0 g.bing.com
 0.0.0.0 g.live.com
 0.0.0.0 global.sam.msn.com
-0.0.0.0 go.microsoft.com
+#0.0.0.0 go.microsoft.com
 0.0.0.0 graph.microsoft.com
 0.0.0.0 hel01r3.msedge.net
 0.0.0.0 hubstordev3sstor1.blob.core.windows.net
