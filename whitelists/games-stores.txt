@@ -49,6 +49,35 @@ enforcement.xbox.com
 www.xbox.com
 xnotify.xboxlive.com
 
+# --- [UBISOFT / UPLAY] ---
+ubisoft.com
+uplay.ubisoft.com
+connect.ubisoft.com
+public-ubiservices.ubi.com
+ubisoftconnect.com
+download.ubisoft.com
+update.ubisoft.com
+*.ubi.com
+*.ubisoft.com
+
+# --- [PLAYSTATION / SONY] ---
+playstation.com
+store.playstation.com
+auth.api.sonyentertainmentnetwork.com
+account.sonyentertainmentnetwork.com
+store.sonyentertainmentnetwork.com
+id.sonyentertainmentnetwork.com
+*.playstation.com
+*.sonyentertainmentnetwork.com
+
+# --- [NINTENDO] ---
+nintendo.com
+accounts.nintendo.com
+api.accounts.nintendo.com
+*.nintendo.com
+*.accounts.nintendo.com
+*.api.accounts.nintendo.com
+
 # ====================================================
 # Fin du fichier
 # ====================================================
