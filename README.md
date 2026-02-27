@@ -23,3 +23,19 @@ Autorise les services souvent liés aux joueurs et streamrs.
 - twitch
 - youtube
 
+## Blacklistes
+Afin de bloquer les domains fréquemments utilisés par Microsoft pour leur télémétrie, je récupère la liste **** de *crazy-max*.
+J'ai cependant commenté certains domains qui sont nécessaires pour les utilisateurs de outlook, hotmail et les services xbox.
+liste des domains non bloqués :
+- ipv4.login.live.com
+- login.live.com
+- login.microsoftonline.com
+- outlook.live.com
+- outlook.office.com
+- outlook.office365.com
+- msftconnecttest.com
+- ipv6.msftconnecttest.com
+- msftncsi.com
+- go.microsoft.com
+- login.msa.msidentity.com
+
